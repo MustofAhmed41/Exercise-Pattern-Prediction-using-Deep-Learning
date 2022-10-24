@@ -16,7 +16,10 @@ by analyzing data collected from various sensors attached
 to the user as they exercise. Previous authors haven’t explored the deep
 learning approach, so in our study, we set out to find if
 using deep learning can be a feasible option or not for
-predicting if a user is correctly exercising or not. 
+predicting if a user is correctly exercising or not. The dataset was collected from an online website and is also avaiable in Kaggle.
+
+
+
 
 ------------
 
